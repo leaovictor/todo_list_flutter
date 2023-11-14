@@ -4,9 +4,17 @@ Uma aplicação simples de lista de tarefas desenvolvida em Flutter para ajudar 
 
 ## Capturas de Tela
 
-### Em produção
-![Captura de Tela 1](screenshots/screenshot1.png)
-![Captura de Tela 2](screenshots/screenshot2.png)
+<div style="display:flex; justify-content:space-around; align-items:center;">
+  <img src="../todo_list/lib/screenshots/screenshot1.jpg" alt="Captura de Tela 1" width="200"/>
+  <img src="../todo_list/lib/screenshots/screenshot2.jpg" alt="Captura de Tela 2" width="200"/>
+  <img src="../todo_list/lib/screenshots/screenshot3.jpg" alt="Captura de Tela 3" width="200"/>
+</div>
+<br>
+<div style="display:flex; justify-content:space-around; align-items:center;">
+  <img src="../todo_list/lib/screenshots/screenshot4.jpg" alt="Captura de Tela 4" width="200"/>
+  <img src="../todo_list/lib/screenshots/screenshot5.jpg" alt="Captura de Tela 5" width="200"/>
+  <img src="../todo_list/lib/screenshots/screenshot6.jpg" alt="Captura de Tela 6" width="200"/>
+</div>
 
 ## Recursos
 
