@@ -54,7 +54,7 @@ Sua contribuição é bem-vinda! Se você tiver ideias para melhorar este aplica
 
 ## Autor
 
-- [Seu Nome](https://github.com/seu-usuario)
+- [Victor Leão](https://www.linkedin.com/in/leaovictor/)
 
 ## Licença
 
